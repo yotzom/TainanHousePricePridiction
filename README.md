@@ -22,7 +22,7 @@ pre_model_weights_25.h5 : sample model weights.
 Pricedetail.rda : 
 
 How to use this project: 
-    1. use "kernel_v1_done.R" to preprocessing training data and save it.
-    2. open "prediction_model.R" training NN model and save model.
-    3. write API functional in "house_basic.R".
-    4. run "house_main.R" to build API in website.
+    1. use "kernel_v1_done.R" to preprocessing training data and save it.\n
+    2. open "prediction_model.R" training NN model and save model.\n
+    3. write API functional in "house_basic.R".\n
+    4. run "house_main.R" to build API in website.\n
