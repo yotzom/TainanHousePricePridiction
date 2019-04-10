@@ -26,3 +26,5 @@ How to use this project:
 2. open "prediction_model.R" training NN model and save model.
 3. write API functional in "house_basic.R".
 4. run "house_main.R" to build API in website.
+
+If you have any question leave a commit(English or Chinese is OK).
